@@ -1,0 +1,21 @@
+.class1{
+    background-color: cyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: rgb(166, 222, 246);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.boldwords{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: monospace;
+}
+.chart{
+    color: indianred;
+    font-size: 20px;
+}
+.guitar{
+    color: coral;
+    font-size: 25px;
+}
